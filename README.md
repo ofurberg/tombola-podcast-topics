@@ -7,3 +7,6 @@ Grabs all the episode names of the podcast from the podcast's iTunes page. Then 
 ## How to use
 Currently only works on Windows
 * Clone the repo and run the exe-file located at "release-v1.0\dist\tombola-topics-finder\tombola-topics-finder.exe
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
